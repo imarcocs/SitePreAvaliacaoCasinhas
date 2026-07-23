@@ -229,17 +229,6 @@ body {
     font-size: 1rem;
 }
 
-.obs-importante {
-    background: rgba(243, 112, 33, 0.1);
-    padding: 15px;
-    border-radius: 8px;
-    margin-bottom: 30px;
-    color: #c2410c;
-    font-weight: 600;
-    font-size: 0.9rem;
-    border-left: 4px solid #f37021;
-}
-
 .grupo-radio {
     display: flex;
     gap: 20px;
